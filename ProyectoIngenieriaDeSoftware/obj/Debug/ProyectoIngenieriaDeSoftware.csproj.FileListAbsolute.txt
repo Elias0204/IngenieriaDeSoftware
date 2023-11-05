@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\bin\Debug\ProyectoIngenieriaDeSoftware.exe.config
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\bin\Debug\ProyectoIngenieriaDeSoftware.exe
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\bin\Debug\ProyectoIngenieriaDeSoftware.pdb
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.Form1.resources
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.PL.frmEmpleados.resources
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.exe
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.pdb
+C:\Users\USUARIO\Desktop\Tareas\Códigos C#\ProyectoIngenieriaDeSoftware\ProyectoIngenieriaDeSoftware\obj\Debug\ProyectoIngenieriaDeSoftware.PL.frmDepartamentos.resources
